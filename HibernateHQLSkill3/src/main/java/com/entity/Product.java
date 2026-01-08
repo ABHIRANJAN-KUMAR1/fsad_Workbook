@@ -1,5 +1,5 @@
+//product.java file
 package com.entity;
-
 import javax.persistence.*;
 
 @Entity
