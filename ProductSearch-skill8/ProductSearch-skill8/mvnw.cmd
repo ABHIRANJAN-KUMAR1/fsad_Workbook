@@ -18,8 +18,8 @@
 @REM under the License.
 @REM -----------------------------------------------------------------------------
 
-@REM ----------------------------------------------------------------------------
-@REM Apache Maven Wrapper startup batch script, version 3.3.4
+@REM --------------------------------------------------------------------------------
+@REM Apache Maven Wrapper startup batch script, version 3.3.4 (2024-06-30)
 @REM
 @REM Optional ENV vars
 @REM   MVNW_REPOURL - repo url base for downloading maven distribution
